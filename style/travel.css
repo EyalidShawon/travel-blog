@@ -1,0 +1,45 @@
+.Welcome{
+    background-image: url(../images/bailey-zindel-NRQV-hBF10M-unsplash.jpg);
+    height: 500px;
+    border: 10px;
+    padding: 10px;
+    background-size: cover;
+}
+h3{
+    color: rgb(123, 42, 42);
+    font-size: 30px;
+}
+.elit{
+    border: 1px black solid;
+}
+.cleck{
+    color: rgb(71, 71, 120);
+}
+.lorem{
+    color: rgb(80, 92, 22);
+}
+.video{
+    height: 50px;
+    background-position: 200px;
+}
+nav>ul>li{
+    display: inline;
+    margin: 10px;
+}
+nav li > a{
+    text-decoration: none;
+    text-align: right;
+}
+footer{
+    text-align: center;
+    margin: 10px;
+}
+section{
+    margin: 10px;
+}
+article{
+    margin: 10px;
+}
+.personal{
+    display: block;
+}
